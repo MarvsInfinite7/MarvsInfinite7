@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarvsInfinite7
+- 👋 Hi, I’m Marvin!
 - 👀 I’m interested in mountain climbing
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on Product devs team
